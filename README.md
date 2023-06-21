@@ -4,4 +4,8 @@
 
 -- The project was necessary to complete the course with honor
 
+--Practice of JavaScript(especially work with third party APIs) and jQuery
+
+--The last version was released in 22/09/2022
+
 The website for Studio Ghibli
