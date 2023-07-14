@@ -3,7 +3,7 @@ const navLinks=document.querySelectorAll("#mainnav ul li a");
 
 let filmData;
 let dataSet= 'films';
-let url="https://ghibliapi.herokuapp.com/films";
+let url="https://ghibli.rest/films";
 
 async function getData(url){
     const dataPromise=await fetch(url);
